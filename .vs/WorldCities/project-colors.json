@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "231290f0-a524-4b61-b073-d07ca13110ee": {
+      "ProjectGuid": "231290f0-a524-4b61-b073-d07ca13110ee",
+      "DisplayName": "WorldCitiesAPI",
+      "ColorIndex": 0
+    },
+    "f40ad203-77b3-412a-8d00-ff42c61ff243": {
+      "ProjectGuid": "f40ad203-77b3-412a-8d00-ff42c61ff243",
+      "DisplayName": "WorldCities",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
