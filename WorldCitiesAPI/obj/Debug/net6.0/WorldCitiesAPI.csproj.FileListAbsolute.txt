@@ -268,3 +268,15 @@ C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\WorldCitiesAPI.pdb
 C:\Apps\Angular\WorldCities\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.csproj.CopyComplete
 C:\Apps\Angular\WorldCities\WorldCitiesAPI\obj\Debug\net6.0\WorldCitiesAPI.genruntimeconfig.cache
 C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Apps\Angular\WorldCities\WorldCitiesAPI\bin\Debug\net6.0\SQLitePCLRaw.core.dll
